@@ -263,7 +263,7 @@ export default function Home() {
                 <li><Link href="/docs" className="hover:text-blurple transition-colors">Documentation</Link></li>
                 <li><Link href="/docs/guide/getting-started" className="hover:text-blurple transition-colors">Getting Started</Link></li>
                 <li><a href="https://npmjs.com/package/disvoice" className="hover:text-blurple transition-colors">NPM Package</a></li>
-                <li><a href="#" className="hover:text-blurple transition-colors">Changelog</a></li>
+                <li><a href="/docs/changelog" className="hover:text-blurple transition-colors">Changelog</a></li>
               </ul>
             </div>
 
